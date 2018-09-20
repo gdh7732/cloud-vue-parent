@@ -13,6 +13,6 @@ spring:
             server:
                 git:
                     uri: https://github.com/gdh7732/cloud-vue-parent.git
-                    search-paths: cloud-config-repo
+                    search-paths: repo
     profiles:
         active: native
